@@ -1,8 +1,10 @@
 # 110-Hours-Henan-Dialect-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/48
+
 
 ## Description
 It collects 463 Henan locals with authentic accent. The recording contents contain daily message and multi-fields customer consultation. It is checked and proofread by Henan locals to ensure the high accuracy. It recorded by android cellphone and iPhone.
+
+For more details, please refer to the link: https://bit.ly/3xS9rIt
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ Henan dialect
 
 ## Application scenario
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
