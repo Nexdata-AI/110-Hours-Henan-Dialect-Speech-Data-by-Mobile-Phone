@@ -4,7 +4,7 @@
 ## Description
 It collects 463 Henan locals with authentic accent. The recording contents contain daily message and multi-fields customer consultation. It is checked and proofread by Henan locals to ensure the high accuracy. It recorded by android cellphone and iPhone.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/48?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/48?source=Github
 
 
 ## Format
